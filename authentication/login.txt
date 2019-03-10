@@ -1,0 +1,21 @@
+go to phpmyadmin
+click new 
+add database name and create database.
+go to newly created database and write the name for the table.
+and select no of coloumn in this case 3.
+say id and specify length.
+then username and type varchar.
+and password and specify length.
+then click on insert and null value would be text user and textpass
+then go to htdocs and create new folder say login.
+then create a new file say logn.php
+and write the following code-
+<html>
+<head></head>
+<link rel="stylesheet" type="text/css" href="style.css">
+<body>
+<div id="">
+</body>
+</html>
+
+https://www.youtube.com/watch?v=14JOfYWOsBs
